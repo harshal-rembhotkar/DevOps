@@ -1,1 +1,1 @@
-Documenting my learning and resources of DevOps
+Documenting DevOps learning and resources of DevOps
