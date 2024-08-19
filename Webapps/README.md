@@ -1,5 +1,3 @@
-Here's a concise `README.md` file focusing on the setup instructions for your `webapp` project:
-
 ```markdown
 # WebApp
 
