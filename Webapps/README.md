@@ -34,5 +34,3 @@ This is a basic Spring Boot web application.
 
 That's it! The application should be up and running.
 ```
-
-Replace `"https://github.com/yourusername/webapp.git"` with your actual repository URL if needed.
