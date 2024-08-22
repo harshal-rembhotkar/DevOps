@@ -33,4 +33,3 @@ This is a basic Spring Boot web application.
    Once the application is running, open your web browser and go to `http://localhost:8080`.
 
 That's it! The application should be up and running.
-```
