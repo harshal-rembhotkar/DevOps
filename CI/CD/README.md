@@ -1,4 +1,10 @@
-- [video_lec]
+- [CI]
+- [video_lec]   
+
+- [Github action](https://youtu.be/x7f9x30W_dI?si=4XA6G8VTF8tBAGOk)
+
+- [CD]
+- [video_lec]   
 
 - [ArgoCD](https://youtu.be/8YLsQIG2Svo?si=_zGsmpBqRuH7X9-R)
 
