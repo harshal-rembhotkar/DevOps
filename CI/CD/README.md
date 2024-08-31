@@ -1,4 +1,4 @@
-- [CI]
+- CI
 - [video_lec]   
 
 - [Github action](https://youtu.be/x7f9x30W_dI?si=4XA6G8VTF8tBAGOk)
